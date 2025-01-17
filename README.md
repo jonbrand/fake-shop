@@ -1,6 +1,6 @@
 # Fake Shop
 
-## Link da Imagem o Docker Hub
+## Link da Imagem no Docker Hub
 https://hub.docker.com/r/jonbrand/fake-shop
 
 ## Variável de Ambiente
