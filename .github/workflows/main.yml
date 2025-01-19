@@ -32,4 +32,4 @@ jobs:
     needs: [ci]
     steps:
       - name: Operação de CD
-        run: echo "Executando CD"
+        run: echo "Executando Continuos Delivery"
